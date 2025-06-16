@@ -118,4 +118,7 @@ ai-image-generator/
 - Add a `.env.example` if you want to externalize the API key setup
 - Add dark mode toggle via CSS for enhanced UX
 
-Let me know if you'd like a `requirements.txt`, GitHub Actions CI/CD integration, or a badge for live deployment!
+### Screenshots
+![Screenshot 2024-04-25 143335](https://github.com/user-attachments/assets/5957b3d4-8317-4686-b36d-bfb449af8d4a)
+
+![Screenshot 2024-04-25 143534](https://github.com/user-attachments/assets/7e1b57a1-a762-44af-8da4-8bdd5885b6a0)
